@@ -1,0 +1,10 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(e1071, cmeans)
+importFrom(mclust, Mclust)
+importFrom(mclust, mclustBIC)
+import("stats")
+import("mclust")
+import("e1071")
+import("ggplot2")
+import("UniversalCVI")
+
