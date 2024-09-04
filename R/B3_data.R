@@ -6,7 +6,7 @@
 #'   \item{\code{y}}{Numeric values generated from Gaussian distributions}
 #'   \item{\code{label}}{Categorical labels 1,2,3,4,5}
 #'}
-#' @references  {N. Wiroonsri, O. Preedasawakul, A Bayesian cluster validity index, arXiv:2402.02162, 2024}
+#' @references  {O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}}
 #' @author {Nathakhun Wiroonsri and Onthada Preedasawakul}
 #' @seealso {\link{B2_data}, \link{B4_data}, \link{B_WP.IDX},  \link{B_Wvalid}, \link{B_XB.IDX}}
 "B3_data"

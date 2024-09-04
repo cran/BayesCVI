@@ -44,7 +44,7 @@ The variance of \eqn{p_k} can be computed as
 \references{
 J. C. Dunn, "A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters," \emph{J Cybern}, 3(3), 32-57 (1973).
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 }
 
 \author{

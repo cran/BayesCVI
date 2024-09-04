@@ -53,7 +53,7 @@ S. H. Kwon, J. Kim, and S. H. Son, “Improved cluster validity index
 for fuzzy clustering,” Electronics Letters, vol. 57, no. 21, pp. 792–794,
 2021.
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 
 }
 \author{

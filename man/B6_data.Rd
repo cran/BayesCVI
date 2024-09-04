@@ -19,7 +19,7 @@ B6_data
 A \code{2}-dimensional dataset from Wiroonsri and Preedasawakul (2024) generated from \code{3} different Gaussian and \code{2} Uniform distributions labeled as \code{1-5}.
 }
 \references{
-{N. Wiroonsri, O. Preedasawakul, A Bayesian cluster validity index, arXiv:2402.02162, 2024}
+{O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}}
 }
 \seealso{
 {\link{B5_data}, \link{B7_data}, \link{B_WP.IDX},  \link{B_Wvalid}, \link{B_XB.IDX}}

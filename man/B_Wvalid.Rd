@@ -52,7 +52,7 @@ The variance of \eqn{p_k} can be computed as
 \references{
 N. Wiroonsri, "Clustering performance analysis using a new correlation based cluster validity index," Pattern Recognition, 145, 109910, 2024. \doi{10.1016/j.patcog.2023.109910}
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 }
 \author{
 Nathakhun Wiroonsri and Onthada Preedasawakul

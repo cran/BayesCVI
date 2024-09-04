@@ -57,7 +57,7 @@ J. C. Bezdek, M. Moshtaghi, T. Runkler, and C. Leckie, “The generalized
 c index for internal fuzzy cluster validity,” IEEE Transactions on Fuzzy
 Systems, vol. 24, no. 6, pp. 1500–1512, 2016. \url{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7429723&isnumber=7797168}
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 
 }
 \author{

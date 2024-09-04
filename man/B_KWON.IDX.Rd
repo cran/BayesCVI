@@ -52,7 +52,7 @@ The variance of \eqn{p_k} can be computed as
 S. H. Kwon, “Cluster validity index for fuzzy clustering,” Electronics
 letters, vol. 34, no. 22, pp. 2176–2177, 1998. \doi{10.1049/el:19981523}
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 
 }
 \author{

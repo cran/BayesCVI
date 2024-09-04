@@ -54,7 +54,7 @@ X. Xie and G. Beni, “A validity measure for fuzzy clustering,” IEEE
 Transactions on Pattern Analysis and Machine Intelligence, vol. 13, no. 8,
 pp. 841–847, 1991.
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 }
 \author{
 Nathakhun Wiroonsri and Onthada Preedasawakul

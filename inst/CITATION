@@ -1,10 +1,12 @@
 bibentry(
   bibtype  = "Article",
   title    = "A Bayesian cluster validity index",
-  author   = c(person("Nathakhun Wiroonsri"),
-                    person("Onthada Preedasawakul")),
-  journal  = "arXiv:2402.02162",
-  year     =  "2024",
-  doi      = "10.48550/arXiv.2402.02162"
-
+  author   = c(person("Onthada Preedasawakul"),
+                person("Nathakhun Wiroonsri")),
+  journal  = "Computational Statistics & Data Analysis",
+  year     =  2025,
+  volume = 202,
+  pages = 108053,
+  issn = "0167-9473",
+  doi      = "10.1016/j.csda.2024.108053"
 )

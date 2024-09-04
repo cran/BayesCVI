@@ -58,9 +58,9 @@ The variance of \eqn{p_k} can be computed as
   \item{CVI}{the data frame where the first and the second columns are the number of groups \code{k} and the original WP\eqn{(k)}, respectively, for \code{k} from \code{2} to \code{kmax}.}
 }
 \references{
-N. Wiroonsri, O. Preedasawakul, "A correlation-based fuzzy cluster validity index with secondary options detector," arXiv:2308.14785, 2023
+N. Wiroonsri, O. Preedasawakul, "A correlation-based fuzzy cluster validity index with secondary options detector". \doi{10.48550/arXiv.2308.14785}
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 }
 \author{
 Nathakhun Wiroonsri and Onthada Preedasawakul

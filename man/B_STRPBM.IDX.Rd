@@ -53,7 +53,7 @@ M. K. Pakhira, S. Bandyopadhyay and U. Maulik, "Validity index for crisp and fuz
 
 A. Starczewski, "A new validity index for crisp clusters," \emph{Pattern Anal Applic} 20, 687–700 (2017).
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 }
 \author{
 Nathakhun Wiroonsri and Onthada Preedasawakul

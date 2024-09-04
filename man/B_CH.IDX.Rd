@@ -46,7 +46,7 @@ The variance of \eqn{p_k} can be computed as
 \references{
 T. Calinski, J. Harabasz, "A dendrite method for cluster analysis," \emph{Communications in Statistics}, 3, 1-27 (1974).
 
-N. Wiroonsri, O. Preedasawakul, "A Bayesian cluster validity index", arXiv:2402.02162, 2024.
+O. Preedasawakul, and N. Wiroonsri, A Bayesian Cluster Validity Index, Computational Statistics & Data Analysis, 202, 108053, 2025. \doi{10.1016/j.csda.2024.108053}
 }
 
 \author{
